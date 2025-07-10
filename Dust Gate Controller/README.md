@@ -30,11 +30,17 @@
 ## 📂 Структура проекта
 
 dust-gate-controller/
+
 ├── src/
+
 │ └── dust_gate_controller.ino # Основной скетч
+
 ├── docs/
+
 │ └── wiring_diagram.png # Схема подключения (при наличии)
+
 ├── README.md
+
 ├── LICENSE
 
 ## ⚙️ Зависимости
