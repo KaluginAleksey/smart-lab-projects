@@ -39,10 +39,15 @@
 dust-gate-controller/
 
 ├── src/
+
 │   └── dust\_gate\_controller.ino — основной скетч
+
 ├── docs/
+
 │   └── wiring\_diagram.png — схема подключения (при наличии)
+
 ├── README.md
+
 ├── LICENSE
 
 ## ⚙️ Зависимости
